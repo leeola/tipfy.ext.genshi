@@ -1,0 +1,3 @@
+*.pyc
+tipfy.ext.genshi/dist/*
+tipfy.ext.genshi/tipfy.ext.genshi.egg-info/*
